@@ -1,2 +1,2 @@
 # projet-duo-Kylian-Hugo
-# Présentation du duo
+# Présentation du duo Hugo et Kylian
